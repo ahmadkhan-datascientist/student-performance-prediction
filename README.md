@@ -86,16 +86,16 @@ Data Science Graduate | Machine Learning Enthusiast
 ## Project Status
 Completed
 
-**Project Visualizations**
+## Project Visualizations
 
-##Data Analysis
+## Data Analysis
 ![Data Analysis](data_analysis.png)
 
-##Model Comparison
+## Model Comparison
 ![Model Comparison](model_comparison.png)
 
-##Actual vs Predicted Results
+## Actual vs Predicted Results
 ![Actual vs Predicted](actual_vs_predicted.png)
 
-##Feature Importance
+## Feature Importance
 ![Feature Importance](Feature_importance.png)
